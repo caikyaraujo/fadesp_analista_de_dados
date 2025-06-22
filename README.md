@@ -72,15 +72,15 @@ Um cliente forneceu um conjunto de dados sem qualquer tratamento prévio e solic
 - Incluir quaisquer ajustes que considerar importantes para garantir clareza, integridade e utilidade das informações apresentadas.
 
 
-**Painel:**
+### Desenvolvimento - Painel
 
-- **Arrecadações** 
-   **Segmentações de dados**
+**Arrecadações** 
+   - Segmentações de dados
       - Ano, Mês.
       - Estado.
       - Imposto.
 
-   **Tabela**
+   - Tabela
       - Análise do valor acumulado de cada imposto por município.
 
 **Correções**
