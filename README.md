@@ -113,15 +113,35 @@ Um cliente forneceu um conjunto de dados sem qualquer tratamento prévio e solic
    - Comente e documente seu código adequadamente para facilitar o entendimento.
    - Fique livre para adicionar quaisquer features ou melhorias.
 
+### Análise Exploratória
+Apresentar uma análise exploratória de dados utilizando Python + SQLite, com base nas tabelas fornecidas.
+
+**Objetivo**
+Explorar as bases de dados e gerar indicadores e visualizações simples para demonstrar capacidade de:
+
+   - Manipulação de dados com pandas.
+   - Armazenamento e consulta em banco SQLite.
+   - Construção de consultas SQL.
+   - Geração de gráficos com matplotlib e seaborn.
+
+**Etapas**
+   - Importação de bibliotecas.
+   - Carga dos arquivos CSV.
+   - Criação do banco SQLite.
+   - Consultas exploratórias com SQL.
+   - Visualização de indicadores com gráficos.
+   - Encerramento da conexão.
+
+**Indicadores Gerados**
+   - Total de pedidos por status.
+   - Top 10 categorias de produtos mais vendidos.
 ---
 
 ## 📌 Considerações Finais
 
-- Este desafio não possui caráter eliminatório, mas **será um diferencial** no processo seletivo.
-- Crie um **fork deste repositório no seu GitHub pessoal** e adicione nele:
-  - Arquivos `.pbix` das Etapas 1 e 2
-  - Arquivo `.ipynb` da Etapa 3 (notebook Python)
+- As etapas foram bem definidas e permitiram uma análise detalhada dos dados mesmo que de forma simples.
+- A etapa 1, foi uma das mais complicadas porque havia uma grande quantidade de valores a corrigir e apresentar os dados mais corretos possíveis.
+- A terceira e última etapa foi a mais interessante, pois permitiu um pouco mais de pesquisa para executá-la.
 
-- Os arquivos disponibilizados no seu fork serão considerados os **entregáveis finais** do desafio.
 
 ---
