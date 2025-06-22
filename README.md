@@ -141,7 +141,7 @@ Explorar as bases de dados e gerar indicadores e visualizações simples para de
 
 - As etapas foram bem definidas e permitiram uma análise detalhada dos dados mesmo que de forma simples.
 - A etapa 1, foi uma das mais complicadas porque havia uma grande quantidade de valores a corrigir e apresentar os dados mais corretos possíveis.
-- A terceira e última etapa foi a mais interessante, pois permitiu um pouco mais de pesquisa para executá-la.
+- A terceira e última etapa foi bem interessante, pois permitiu um pouco mais de pesquisa para executá-la.
 
 
 ---
