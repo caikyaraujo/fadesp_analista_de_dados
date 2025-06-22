@@ -17,21 +17,21 @@ Um cliente solicitou a criação de um painel com as seguintes análises:
 - Adicionar quaisquer tratamentos e visuais adicionais que considerar relevantes.
 - Essa etapa valoriza principalmente a sua criatividade na escolha de visualizações e no uso dos recursos que o Power BI oferece.
 
-**Painel:**
+### Desenvolvimento - Painel
 
-- **Análise de Vendas:** 
-   **Cartões Superiores**
+**Análise de Vendas:** 
+   - Cartões Superiores
       - Mostra o total de vendas e volume de vendas de pedidos.
       - Valor dos pedidos "Em Processamento" e volume quantitativo desses pedidos.
       - Valor dos pedidos "Não Concluídos" e volume quantitativo desses pedidos.
-   **Gráfico de Barras**
+   - Gráfico de Barras
       - Análise de vendas por categoria.
       - Quantidade de produtos.
-   **Gráfico de Linha**
+   - Gráfico de Linha
       - Análise temporal das vendas e volume de pedidos.
-   **Tabela Matriz**
+   - Tabela Matriz
       - Avaliações de produtos por categoria.
-   **Mapa Geográfico**
+   - Mapa Geográfico
       - Análise geógráfica de vendas baseada na região dos vendedores.
 
 **Correções**
